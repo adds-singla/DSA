@@ -75,6 +75,8 @@ int main() {
 	cout<<"Enter The No. of Elements. ";
 	cin>>size;
 	Create(arr,size);
+	bool isExit=false;
+	while(!isExit){
 	cout<<"Press 1 to display Array"<<endl;
 	cout<<"Press 2 to Insert an element Array"<<endl;
 	cout<<"Press 3 to Delete an element Array"<<endl;
@@ -131,6 +133,7 @@ int main() {
 	}
 
 	case 6: {
+		isExit=true;
 		break;
 	}
 
@@ -138,7 +141,7 @@ int main() {
 		cout<<"Invalid Arguement";
 		break;
 	}
-
+	}
 
 	}
 
