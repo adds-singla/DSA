@@ -14,13 +14,6 @@ bool canSplit(string &st){
         if(f>=3) return true;
     }
 
-    char first = st[0], last = st[n - 1];
-    if (first == last) {
-        for (int i = 1; i < n - 1; i++) {
-            if (st[i] == first) return true;
-        }
-    }
-
 
     return false;
     //Time Complexity: O(N)
