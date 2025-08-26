@@ -11,7 +11,7 @@ void Duplicate2s(vector<int> &arr){
         if (arr[left] == 2){
 
             if (left==n-possDups){
-                arr[n]=0;
+                arr[n]=2;
                 n -= 1;
                 break;
             }
