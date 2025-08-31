@@ -1,3 +1,6 @@
+/*Write a program to count the total number of distinct elements in an array of length
+n.*/
+
 #include <iostream>
 #include <unordered_map>
 using namespace std;
