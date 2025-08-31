@@ -1,3 +1,7 @@
+/*Implement the logic to
+Find the matrix multiplication
+Find the Transpose of a Matrix*/
+
 #include <iostream>
 using namespace std;
 
