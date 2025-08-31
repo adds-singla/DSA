@@ -1,3 +1,6 @@
+/*Given a string, reverse it using STACK. For example “DataStructure” should be output as
+“erutcurtSataD.”*/
+
 #include<iostream>
 #include<stack>
 using namespace std;
