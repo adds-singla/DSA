@@ -1,3 +1,8 @@
+/*Space required to store any two-dimensional array is number oƒ rows × number oƒ
+columns. Assuming array is used to store elements of the following matrices,
+implement an efficient way that reduces the space requirement.
+(b) Tri-diagonal Matrix.*/
+
 #include <iostream>
 using namespace std;
 
