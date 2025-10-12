@@ -1,5 +1,5 @@
-/*Develop a menu driven program demonstrating the following operations on Circular Queues:
-enqueue(), dequeue(), isEmpty(), isFull(), display(), and peek().*/
+/*Given a queue with random elements, we need to sort it. We are not allowed to use extra space. The
+operations allowed on queue are:*/
 
 #include <iostream>
 #include <queue>
