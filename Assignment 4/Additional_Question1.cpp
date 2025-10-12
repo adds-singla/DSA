@@ -1,3 +1,6 @@
+/*Given a function n, write a function that generates and prints all binary numbers with decimal values
+from 1 to n.*/ 
+
 #include <iostream>
 #include <queue>
 #include <vector>
