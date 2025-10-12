@@ -1,3 +1,5 @@
+/*Write a program to find the middle of a linked list.*/
+
 #include<iostream>
 using namespace std;
 
