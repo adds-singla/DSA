@@ -1,3 +1,6 @@
+/*Develop a menu driven program demonstrating the following operations on Circular Queues:
+enqueue(), dequeue(), isEmpty(), isFull(), display(), and peek().*/
+
 #include <iostream>
 #include <queue>
 using namespace std;
