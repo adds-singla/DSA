@@ -1,3 +1,6 @@
+/*Develop a menu driven program demonstrating the following operations on simple
+Queues: enqueue(), dequeue(), isEmpty(), isFull(), display(), and peek().*/
+
 #include<iostream>
 using namespace std;
 
