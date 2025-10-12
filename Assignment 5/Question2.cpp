@@ -1,3 +1,6 @@
+/*Write a program to count the number of occurrences of a given key in a singly linked
+list and then delete all the occurrences.*/
+
 #include <iostream>
 using namespace std;
 
